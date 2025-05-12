@@ -3,7 +3,7 @@ Proyecto para manejar el testeo de APIs
 
 # 🧪 Simulador de Rendimiento para APIs REST
 
-![Diagrama general](img\Diagrama.png)
+![Diagrama general](img/Diagrama.png)
 
 ## 🚀 Descripción del Proyecto
 
