@@ -20,7 +20,7 @@ def estadisticas(latencias):
     
 def graficar_resultados(latencias, codigos_estado):
     # Estilo bonito con seaborn
-    sns.set(style="whitegrid")
+    sns.set_theme(style="whitegrid")
 
     # 📈 1. Gráfico de latencias (línea)
     plt.figure(figsize=(10, 5))
